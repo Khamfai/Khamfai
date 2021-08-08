@@ -69,5 +69,5 @@
 
 
 [twitter]: https://twitter.com/Txam20
-[facbook]: https://www.facebook.com/phai.muas
+[facebook]: https://www.facebook.com/phai.muas
 

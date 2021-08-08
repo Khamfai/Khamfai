@@ -1,6 +1,7 @@
 ### Hi there, I'm Khamphay - Txam [KP Dev][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)
+[![Facbook Follow](https://img.shields.io/facbook/follow/phai.muas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/phai.muas)
 
 ## I'm a  Developer, Freelancer and Open Work!!
 

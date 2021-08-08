@@ -12,8 +12,8 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="phai.muas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facbook.svg" />][facebook ]
-[<img align="left" alt="Txam20 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Phai Muas | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facbook.svg" />][facebook]
+[<img align="left" alt="Txam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
@@ -66,3 +66,8 @@
   <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
 </details>
+
+
+[twitter]: https://twitter.com/Txam20
+[facbook]: https://www.facebook.com/phai.muas
+

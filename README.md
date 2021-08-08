@@ -2,12 +2,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)
 <!-- [![Facbook Follow](https://img.shields.io/facbook/follow/phai.muas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/phai.muas) -->
-
+---
 ## I'm a  Developer, Freelancer and Open Work!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🎧 Fun fact: I love to listening music
+
+---
 
 ### Connect with me:
 
@@ -18,6 +20,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
+
+---
 
 ### Languages and Tools:
 

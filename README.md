@@ -1,7 +1,10 @@
 <!-- ### Content
  -->
-<h2> Hey there! I'm Khamphay [KP Dev]. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" ></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Khamphay [KP Dev]. <img src="https://th.bing.com/th/id/R.2d6044f9da0938462482566741632909?rik=7l2yxKNSsnL0Fw&pid=ImgRaw&r=0" width="50" ></h2>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
+<!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)
 <!-- [![Facbook Follow](https://img.shields.io/facbook/follow/phai.muas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/phai.muas) -->
@@ -46,6 +49,7 @@
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
 <img align="left" alt="Git" width="26px" src="https://tech.bodyfitstation.com/wp-content/uploads/2016/11/git-logo.png" />
 <img align="left" alt="GitHub" width="26px" src="http://pngimg.com/uploads/github/github_PNG20.png" />
+<img align="left" alt="GitHub" width="26px" src="https://www.unixmen.com/wp-content/uploads/2016/02/gitlab-logo-square.png" />
 
 <br />
 
@@ -59,14 +63,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khamphay&theme=radical&title_color=8E2DE2&text_color=fff)
 
----
+<!-- --- -->
 
-<br />
+<!-- <br /> -->
 
 
----
+<!-- --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -74,24 +78,24 @@
 
 <!-- ➡️ [more blog posts...](https://example.com) -->
 
----
+<!-- --- -->
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!-- <details> -->
+<!--   <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. ...... -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
   <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
-</details>
+<!-- </details> -->
 
 
 [twitter]: https://twitter.com/Txam20

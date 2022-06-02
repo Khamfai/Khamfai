@@ -1,6 +1,6 @@
 <!-- ### Content
  -->
-<h2> Hey there! I'm Khamphay [KP Dev]. <img src="https://th.bing.com/th/id/R.2d6044f9da0938462482566741632909?rik=7l2yxKNSsnL0Fw&pid=ImgRaw&r=0" width="50" ></h2>
+<h2> Hey there! I'm Khamphay [KP Dev]. <img src="https://th.bing.com/th/id/R.2d6044f9da0938462482566741632909?rik=7l2yxKNSsnL0Fw&pid=ImgRaw&r=0" width="80" ></h2>
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 <!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>

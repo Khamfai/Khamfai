@@ -31,22 +31,37 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Framework:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
-<img align="left" alt="Java" width="26px" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" />
+<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="C#" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="SQL" width="26px" src="https://sos-software.com/wp-content/uploads/IntelliJ_IDEA_Logo.svg_.png" />
+<img align="left" alt="Sequelize" width="26px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" />
+
+<br />
+
+---
+
+### Databases:
+
 <img align="left" alt="SQL" width="26px" src="https://www.jing.fm/clipimg/full/29-291748_sql-server-logo-microsoft-png-microsoft-sql-server.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
+
+<br />
+
+---
+
+### Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="blogspot" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
+<img align="left" alt="SQL" width="26px" src="https://sos-software.com/wp-content/uploads/IntelliJ_IDEA_Logo.svg_.png" />
+<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Git" width="26px" src="https://tech.bodyfitstation.com/wp-content/uploads/2016/11/git-logo.png" />
 <img align="left" alt="GitHub" width="26px" src="http://pngimg.com/uploads/github/github_PNG20.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.unixmen.com/wp-content/uploads/2016/02/gitlab-logo-square.png" />

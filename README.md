@@ -53,7 +53,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://www.jing.fm/clipimg/full/29-291748_sql-server-logo-microsoft-png-microsoft-sql-server.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="MySQL" width="26px" src="https://e7.pngegg.com/pngimages/632/886/png-clipart-mariadb-oracle-database-mysql-open-source-software-zookeeper-blue-mammal-thumbnail.png" />
+<img align="left" alt="MySQL" width="26px" src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" />
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
 
 <br />

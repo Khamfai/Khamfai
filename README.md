@@ -45,6 +45,9 @@
 <img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="Sequelize" width="30px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" />
 <img align="left" alt="Prisma" width="30px" src="https://logowik.com/content/uploads/images/prisma2244.jpg" />
+<img align="left" alt="VueJS" width="30px" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" />
+<img align="left" alt="QuasarJS" width="30px" src="https://lightningchart.com/wp-content/uploads/2022/09/Quasar-logo-JS.png" />
+<img align="left" alt="NuxtJS" width="30px" src="https://miro.medium.com/v2/resize:fit:402/1*_wHSbu5vUwGkFtgWt6D_FQ.png" />
 <br />
 
 ---

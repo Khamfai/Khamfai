@@ -63,6 +63,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <img align="left" alt="MySQL" width="30px" src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" />
 <img align="left" alt="SQLite" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
+<img align="left" alt="SQLite" width="30px" src="https://raw.githubusercontent.com/docker-library/docs/00543c65b06a7f8f54aa4f7908f7d91705d8ddec/couchbase/logo.png" />
 
 <br />
 

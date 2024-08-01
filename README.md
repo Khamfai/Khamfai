@@ -1,24 +1,23 @@
 <!-- ### Content
  -->
-<h2> Hey there! I'm Khamphay [KP Dev]</h2>
+## Hey there! I'm Khamphay [KP Dev]
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 <!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/>
+<!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/> -->
+<img align="right" alt="GIF" width="450" src="https://i.redd.it/gfb2a0ptbbv01.gif">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)
 <!-- [![Facbook Follow](https://img.shields.io/facbook/follow/phai.muas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/phai.muas) -->
 
----
-## I'm a  Developer, Freelancer and Open Work!!
+### I'm a  Developer, Freelancer, and Open Work!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🎧 Fun fact: I love to listening music
 - 🏞 I'm enjoin of jumping
-
+  
 <!-- --- -->
-
 <!-- ### Connect with me: -->
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -26,7 +25,6 @@
 [<img align="left" alt="Txam | Twitter" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter] -->
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
 <br />
 
 ---

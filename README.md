@@ -74,6 +74,7 @@
 <img align="left" alt="Git" width="30px" src="https://images.velog.io/images/hdy20201004/post/8a33d045-b496-4086-98d3-6fe9bb8629e5/git_logo.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github.png?size=460" />
 <img align="left" alt="GitHub" width="30px" src="https://www.unixmen.com/wp-content/uploads/2016/02/gitlab-logo-square.png" />
+<img align="left" alt="GitHub" width="30px" src="https://platformio.gallerycdn.vsassets.io/extensions/platformio/platformio-ide/3.3.3/1706298352797/Microsoft.VisualStudio.Services.Icons.Default" />
 
 <br />
 

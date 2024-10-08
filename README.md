@@ -12,7 +12,7 @@
 
 ### I'm a  Developer, Freelancer, and Open Work!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🎧 Fun fact: I love to listening music
 - 🏞 I'm enjoin of jumping

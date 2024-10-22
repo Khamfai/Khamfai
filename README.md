@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f9ef2cc7-2931-4b55-a23f-86860cc08c43)<!-- ### Content
- -->
 ## Hey there! I'm Khamphay [KP Dev]
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
 <!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->

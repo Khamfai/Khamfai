@@ -1,4 +1,4 @@
-<!-- ### Content
+![image](https://github.com/user-attachments/assets/f9ef2cc7-2931-4b55-a23f-86860cc08c43)<!-- ### Content
  -->
 ## Hey there! I'm Khamphay [KP Dev]
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/> -->
@@ -69,6 +69,7 @@
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Cursor AI" width="30px" src="https://miro.medium.com/v2/resize:fit:800/format:webp/0*zWCTHFNFdGAgSw2d" />
 <img align="left" alt="blogspot" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Git" width="30px" src="https://images.velog.io/images/hdy20201004/post/8a33d045-b496-4086-98d3-6fe9bb8629e5/git_logo.png" />

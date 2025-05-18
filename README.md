@@ -34,7 +34,7 @@
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" />
 <!-- <img align="left" alt="CPP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" /> -->
-<img align="left" alt="C#" width="30px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
+<img align="left" alt="C#" width="30px" src="https://miro.medium.com/v2/resize:fit:375/1*NhpIIUL7AFgKKn30gKoDUw.png" />
 <img align="left" alt="Go" width="30px" src="https://e7.pngegg.com/pngimages/666/815/png-clipart-dart-google-chrome-web-application-flutter-darts-blue-angle.png" /> 
 
 <br />
@@ -47,7 +47,8 @@
 <img align="left" alt="QuasarJS" width="30px" src="https://lightningchart.com/wp-content/uploads/2022/09/Quasar-logo-JS.png" />
 <img align="left" alt="NuxtJS" width="30px" src="https://miro.medium.com/v2/resize:fit:402/1*_wHSbu5vUwGkFtgWt6D_FQ.png" />
 <img align="left" alt="Prisma" width="32px" height="29px" src="https://logowik.com/content/uploads/images/prisma2244.jpg" />
-<img align="left" alt="Sequelize" width="30px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" />
+<img align="left" alt="Sequelize" width="30px" src="https://avatars.githubusercontent.com/u/3591786?v=4" />
+<img align="left" alt="NestJS" width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
 
 <br />
 
@@ -72,8 +73,8 @@
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Git" width="30px" src="https://images.velog.io/images/hdy20201004/post/8a33d045-b496-4086-98d3-6fe9bb8629e5/git_logo.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github.png?size=460" />
-<img align="left" alt="GitHub" width="30px" src="https://www.unixmen.com/wp-content/uploads/2016/02/gitlab-logo-square.png" />
-<img align="left" alt="GitHub" width="30px" src="https://platformio.gallerycdn.vsassets.io/extensions/platformio/platformio-ide/3.3.3/1706298352797/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="GitLab" width="30px" src="https://www.unixmen.com/wp-content/uploads/2016/02/gitlab-logo-square.png" />
+<img align="left" alt="Platformio" width="30px" src="https://platformio.gallerycdn.vsassets.io/extensions/platformio/platformio-ide/3.3.4/1736607344047/Microsoft.VisualStudio.Services.Icons.Default" />
 
 <br />
 

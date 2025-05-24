@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/> -->
 <!-- <img align="right" alt="GIF" width="200" src="https://i.redd.it/gfb2a0ptbbv01.gif"> -->
-<img align="right" alt="GIF" width="350" src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif">
+<img align="right" alt="GIF" width="300" src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)

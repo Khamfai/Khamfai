@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/10/blinking-morse-code-gif-5.gif" width="335"/> -->
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400"/> -->
 <!-- <img align="right" alt="GIF" width="200" src="https://i.redd.it/gfb2a0ptbbv01.gif"> -->
-<img align="right" alt="GIF" width="300" src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif">
+<img align="right" alt="GIF" width="320" src="https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Txam20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Txam20)
@@ -49,7 +49,7 @@
 <img align="left" alt="NuxtJS" width="30px" src="https://miro.medium.com/v2/resize:fit:402/1*_wHSbu5vUwGkFtgWt6D_FQ.png" />
 <img align="left" alt="Prisma" width="32px" height="29px" src="https://logowik.com/content/uploads/images/prisma2244.jpg" />
 <img align="left" alt="Sequelize" width="30px" src="https://avatars.githubusercontent.com/u/3591786?v=4" />
-<img align="left" alt="NestJS" width="30px" src="https://www.pinpng.com/pngs/m/208-2082662_logo-nestjs-nest-js-hd-png-download.png" />
+<img align="left" alt="NestJS" width="30px" src="https://nestjs.com/logo-small-gradient.d792062c.svg" />
 
 <br />
 

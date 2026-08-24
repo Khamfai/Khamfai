@@ -21,7 +21,7 @@
 - 💻 I develop web and mobile applications, backend systems, and IoT solutions.
 - 🌱 I’m committed to continuous learning and exploring new technologies.
 - 🤝 I’m available for freelance opportunities and open to collaborating with developers, content creators, and product teams.
-- 🎧 Outside of work, I enjoy listening to music, paying game and spending time outdoors.
+- 🎧 Outside of work, I enjoy listening to music, playing game and spending time outdoors.
 - 📍 I’m based in Laos.
 
 ## Tech stack

@@ -48,7 +48,7 @@ Also working with **SQL Server** and **Couchbase**.
 
 ![IoT](https://img.shields.io/badge/IoT-Connected_Devices-0A66C2?style=for-the-badge&logo=espressif&logoColor=white)
 
-Also using **Cursor**, **PlatformIO**, and **Blogger**.
+Also using **Cursor**, **PlatformIO**, and **MQTT**.
 
 ## Extended GitHub Stats
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Khamfai">
-  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&amp;w=1470&amp;h=700&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Developer workspace" width="100%" />
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&amp;w=1470&amp;h=800&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Developer workspace" width="100%" />
 </a>
 
 # Hi, I'm Khamfai 👋
@@ -37,7 +37,7 @@
 
 ### Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,redis&theme=dark)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" />
 
 Also working with **SQL Server** and **Couchbase**.
